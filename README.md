@@ -40,6 +40,16 @@ julia> out_img = toonify_img("./Images/classroom.png", config);
 
 ```
 
+# Examples
+Images filtered using default parameters
+
+Source | Tooned
+------ | ------
+![](./images/source/classroom.png)|![](./images/tooned/classroom.png)
+![](./images/source/clint_eastwood.png)|![](./images/tooned/clint_eastwood.png)
+![](./images/source/dogs.png)|![](./images/tooned/dogs.png)
+
+
 # Acknowledgement
 GLSL code was taken from [Geeks3D](https://www.geeks3d.com/20140523/glsl-shader-library-toonify-post-processing-filter/)
 I also used the code developped by Rex for Phaser.js, see the documentation and sources [here](https://rexrainbow.github.io/phaser3-rex-notes/docs/site/shader-toonify/)
