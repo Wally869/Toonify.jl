@@ -25,7 +25,13 @@ function set_value_level!(params::parameters, value_level::Float32)
     params.value_level = value_level
 end
 
-
+function set_all_parameters!(params::parameters, edge_threshold::Float32, hue_level::Float32, 
+                            saturation_level::Float32, value_level::Float32)
+    set_edge_threshold!(params, edge_threshold)
+    set_hue_level!(params, hue_level)
+    set_saturation_level!(params, saturation_level)
+    set_value_level!(params, value_level)
+end
 
 
 mutable struct steps
