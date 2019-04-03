@@ -48,6 +48,7 @@ Source | Tooned
 ![](./images/source/classroom.png)|![](./images/tooned/classroom.png)
 ![](./images/source/clint_eastwood.jpg)|![](./images/tooned/clint_eastwood.png)
 ![](./images/source/dogs.jpg)|![](./images/tooned/dogs.png)
+![](./images/source/city.jpg)|![](./images/tooned/city.png)
 
 
 # Acknowledgement
