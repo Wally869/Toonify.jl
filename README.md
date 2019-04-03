@@ -51,5 +51,5 @@ Source | Tooned
 
 
 # Acknowledgement
-GLSL code was taken from [Geeks3D](https://www.geeks3d.com/20140523/glsl-shader-library-toonify-post-processing-filter/)
+GLSL code was taken from [Geeks3D](https://www.geeks3d.com/20140523/glsl-shader-library-toonify-post-processing-filter/)&nbsp;
 I also used the code developped by Rex for Phaser.js, see the documentation and sources [here](https://rexrainbow.github.io/phaser3-rex-notes/docs/site/shader-toonify/)
