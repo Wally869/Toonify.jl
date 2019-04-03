@@ -3,7 +3,7 @@ Implementation in Julia of the Toonify post-processing filter by Geeks3d
 A Phaser.js demonstration can be found [here](https://codepen.io/rexrainbow/full/ErWNXa)
 
 # Dependencies
-Images
+Images \n
 ImageView
 
 # Usage
