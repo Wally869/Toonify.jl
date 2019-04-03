@@ -46,8 +46,8 @@ Images filtered using default parameters
 Source | Tooned
 ------ | ------
 ![](./images/source/classroom.png)|![](./images/tooned/classroom.png)
-![](./images/source/clint_eastwood.png)|![](./images/tooned/clint_eastwood.png)
-![](./images/source/dogs.png)|![](./images/tooned/dogs.png)
+![](./images/source/clint_eastwood.jpg)|![](./images/tooned/clint_eastwood.png)
+![](./images/source/dogs.jpg)|![](./images/tooned/dogs.png)
 
 
 # Acknowledgement
