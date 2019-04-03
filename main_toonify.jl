@@ -5,10 +5,10 @@ include("utils.jl")
 
 config = init_parameters()
 
-function toonify_image(path::String, config::parameters)
+function toonify_image(path_img::String, config::parameters)
     steps_toonify = init_steps(config)
 
-    rgb_img = load(path)
+    rgb_img = load(path_img)
 
     channels = extract_hsv_channels(rgb_img)
     adjust_channels!(channels, steps_toonify)
