@@ -16,7 +16,7 @@ mutable struct parameters
 end
 ```
 
-Default parameters are: 0.2, 10, 5., 5.
+Default parameters are: 0.2, 10., 5., 5.
 and can be changed separately or by using set_all_parameters!
 ```julia
 function set_all_parameters!(params::parameters, edge_threshold::Float32, hue_level::Float32, 
